@@ -21,13 +21,13 @@
 <a href="https://linkedin.com/in/yehia-reda-790205240" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Yehia_Reda" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![dart](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![flutter](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![java](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=dart)&nbsp;
+![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=563D7C)&nbsp;
+![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![photoshop](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![photoshop](https://img.shields.io/badge/-photoshop-05122A?style=flat&logo=photoshop)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
